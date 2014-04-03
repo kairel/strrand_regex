@@ -1,5 +1,5 @@
-Randexp
-    by Michael Alves Lobo
+Strrand_regex
+    by Michael Alves Lobo (fork of https://github.com/repeatedly/ruby-string-random)
     https://github.com/kairel/strrand_regex
 
 == DESCRIPTION:
